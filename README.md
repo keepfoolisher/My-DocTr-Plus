@@ -4,6 +4,16 @@
 链接：https://pan.baidu.com/s/16G3ZxPK_Zp8cbxrcM6YfSA 
 提取码：oklm
 
+
+## How to use 
+1. Put the pretrained model to `$ROOT/model_save/`.
+2. Put the distorted images in `$ROOT/distorted/`.
+3. Run the script and the rectified images are saved in `$ROOT/rectified/` by default.
+    ```
+    python inference.py
+    ```
+
+
 ## results of first version:
 
 <div align="center">
@@ -22,14 +32,6 @@
 </div>
 
 左边为原图，右边为矫正图
-
-## How to use 
-1. Put the pretrained model to `$ROOT/model_save/`.
-2. Put the distorted images in `$ROOT/distorted/`.
-3. Run the script and the rectified images are saved in `$ROOT/rectified/` by default.
-    ```
-    python inference.py
-    ```
 
 @inproceedings{feng2021doctr,
   title={DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction},
