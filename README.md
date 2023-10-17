@@ -5,7 +5,9 @@
 提取码：oklm
 
 # results of first version:
-
+<p align="center">
+ <img src="./distorted/111.png" align="left" width = "600"/>
+ <img src="./rectified/111_geo.png" align="right" width = "600"/>
 
 ## How to use 
 1. Put the pretrained model to `$ROOT/model_save/`.
