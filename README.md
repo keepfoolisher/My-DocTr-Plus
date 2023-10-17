@@ -7,23 +7,23 @@
 ## results of first version:
 
 <div align="center">
-     <img src="./distorted/111.png" align="left" width = "400"/>
-     <img src="./rectified/111_geo.png" align="left" width = "400"/>
+     <img src="./distorted/111.png" align="left" width = "450"/>
+     <img src="./rectified/111_geo.png" align="left" width = "450"/>
 </div>
 
 <div align="center">
-     <img src="./distorted/112.png" align="left" width = "400"/>
-     <img src="./rectified/112_geo.png" align="left" width = "400"/>
+     <img src="./distorted/112.png" align="left" width = "450"/>
+     <img src="./rectified/112_geo.png" align="left" width = "450"/>
 </div>
 
 <div align="center">
-     <img src="./distorted/113.png" align="left" width = "400"/>
-     <img src="./rectified/113_geo.png" align="left" width = "400"/>
+     <img src="./distorted/113.png" align="left" width = "450"/>
+     <img src="./rectified/113_geo.png" align="left" width = "450"/>
 </div>
 
 左边为原图，右边为矫正图
 
-How to use 
+## How to use 
 1. Put the pretrained model to `$ROOT/model_save/`.
 2. Put the distorted images in `$ROOT/distorted/`.
 3. Run the script and the rectified images are saved in `$ROOT/rectified/` by default.
