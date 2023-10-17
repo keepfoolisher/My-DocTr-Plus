@@ -6,9 +6,9 @@
 
 # results of first version:
 <p align="center">
- <img src="./distorted/111.png" align="left" width = "300"/>
- <img src="./rectified/111_geo.png" align="left" width = "300"/>
- <p align="center">
+ <img src="./distorted/111.png" align="left" width = "400"/>
+ <img src="./rectified/111_geo.png" align="left" width = "400"/>
+
 </p>
 
 ## How to use 
