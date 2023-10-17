@@ -31,7 +31,7 @@
      <img src="./rectified/113_geo.png" align="left" width = "450"/>
 </div>
 
-左边为原图，右边为矫正图
+--------------------------
 
 @inproceedings{feng2021doctr,
   title={DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction},
