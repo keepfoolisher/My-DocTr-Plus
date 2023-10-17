@@ -23,7 +23,7 @@
 
 左边为原图，右边为矫正图
 
-## How to use 
+How to use 
 1. Put the pretrained model to `$ROOT/model_save/`.
 2. Put the distorted images in `$ROOT/distorted/`.
 3. Run the script and the rectified images are saved in `$ROOT/rectified/` by default.
