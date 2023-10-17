@@ -17,18 +17,18 @@
 ## some results of first version:
 
 <div align="center">
-     <img src="./distorted/111.png" align="left" width = "450"/>
-     <img src="./rectified/111_geo.png" align="left" width = "450"/>
+     <img src="./distorted/111.png" align="left" width = "300"/>
+     <img src="./rectified/111_geo.png" align="left" width = "300"/>
 </div>
 
 <div align="center">
-     <img src="./distorted/112.png" align="left" width = "450"/>
-     <img src="./rectified/112_geo.png" align="left" width = "450"/>
+     <img src="./distorted/112.png" align="left" width = "300"/>
+     <img src="./rectified/112_geo.png" align="left" width = "300"/>
 </div>
 
 <div align="center">
-     <img src="./distorted/113.jpg" align="left" width = "450"/>
-     <img src="./rectified/113_geo.png" align="left" width = "450"/>
+     <img src="./distorted/113.jpg" align="left" width = "300"/>
+     <img src="./rectified/113_geo.png" align="left" width = "300"/>
 </div>
 
 --------------------------
