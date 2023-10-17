@@ -40,3 +40,9 @@
   year={2021}
 }
 
+@article{feng2023doctrp,
+  title={Deep Unrestricted Document Image Rectification},
+  author={Feng, Hao and Liu, Shaokai and Deng, Jiajun and Zhou, Wengang and Li, Houqiang},
+  journal={arXiv},
+  year={2023}
+}
