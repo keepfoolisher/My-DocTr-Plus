@@ -21,6 +21,9 @@
      <img src="./rectified/113_geo.png" align="left" width = "400"/>
 </div>
 
+![Demo](./distorted/111.png)
+![Demo](./rectified/111_geo.png)
+
 ## How to use 
 1. Put the pretrained model to `$ROOT/model_save/`.
 2. Put the distorted images in `$ROOT/distorted/`.
@@ -28,4 +31,12 @@
     ```
     python inference.py
     ```
+
+@inproceedings{feng2021doctr,
+  title={DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction},
+  author={Feng, Hao and Wang, Yuechen and Zhou, Wengang and Deng, Jiajun and Li, Houqiang},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  pages={273--281},
+  year={2021}
+}
 
