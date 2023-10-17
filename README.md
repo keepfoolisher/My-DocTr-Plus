@@ -21,8 +21,7 @@
      <img src="./rectified/113_geo.png" align="left" width = "400"/>
 </div>
 
-![Demo](./distorted/111.png)
-![Demo](./rectified/111_geo.png)
+左边为原图，右边为矫正图
 
 ## How to use 
 1. Put the pretrained model to `$ROOT/model_save/`.
