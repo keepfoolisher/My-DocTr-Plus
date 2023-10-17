@@ -7,7 +7,7 @@
 # results of first version:
 <p align="center">
  <img src="./distorted/111.png" align="left" width = "300"/>
- <img src="./rectified/111_geo.png" align="right" width = "300"/>
+ <img src="./rectified/111_geo.png" align="left" width = "300"/>
 </p>
 
 ## How to use 
