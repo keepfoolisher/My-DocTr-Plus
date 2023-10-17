@@ -14,7 +14,7 @@
     ```
 
 
-## results of first version:
+## some results of first version:
 
 <div align="center">
      <img src="./distorted/111.png" align="left" width = "450"/>
