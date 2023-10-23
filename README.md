@@ -1,4 +1,4 @@
-## this code just record first version result for unwarp distorted images and Referenced some codes from https://github.com/fh2019ustc/DocTr-Plus and thanks for sharing.
+## this code just record my-self released first version result for unwarp distorted images and Referenced some codes from https://github.com/fh2019ustc/DocTr-Plus and thanks for sharing.
 
 ## this is first version model file:
 链接：https://pan.baidu.com/s/16G3ZxPK_Zp8cbxrcM6YfSA 
